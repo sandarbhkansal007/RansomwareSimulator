@@ -1,6 +1,3 @@
-# Building a Ransomware Simulator
-
-This repository contains the code for a ransomware simulator developed during the **CYBER GYAN VIRTUAL INTERNSHIP PROGRAM** at **Centre for Development of Advanced Computing (CDAC) Noida**.
 
 ## Project Overview
 
