@@ -34,28 +34,28 @@ The project aims to develop a ransomware simulator that mimics the behavior of a
 
 ## How It Works
 1. File Encryption:
--The simulator encrypts files in the specified directory using the AES encryption algorithm.
+- The simulator encrypts files in the specified directory using the AES encryption algorithm.
    
 2.Ransom Note Display:
--A graphical ransom note is displayed with an image and instructions to pay a ransom.
--A countdown timer creates urgency for the user to input the decryption key.**
+- A graphical ransom note is displayed with an image and instructions to pay a ransom.
+- A countdown timer creates urgency for the user to input the decryption key.**
 
 3.File Decryption:
--If the correct key is provided, files are decrypted and restored to their original state.
+- If the correct key is provided, files are decrypted and restored to their original state.
 
 ## Ransomware Attack Simulation Workflow
--**Initial Infection**: The victim unknowingly acquires ransomware through email attachments or links.
--**Contacting the Attacker's C&C Server**: The ransomware connects to the attacker's command-and-control server to download the public key.
--**Data Encryption**: Files are encrypted using the public key, and a ransom note is displayed.
--**Ransom Payment and Decryption**: The victim must pay the ransom to receive the private key to decrypt the files.
+- **Initial Infection**: The victim unknowingly acquires ransomware through email attachments or links.
+- **Contacting the Attacker's C&C Server**: The ransomware connects to the attacker's command-and-control server to download the public key.
+- **Data Encryption**: Files are encrypted using the public key, and a ransom note is displayed.
+- **Ransom Payment and Decryption**: The victim must pay the ransom to receive the private key to decrypt the files.
 
 ## Prevention and Recommendations
 To mitigate the risks posed by ransomware, follow these best practices:
 
--**Regular Backups**: Backup important data to offline or cloud storage.
--**Security Awareness**: Educate users on phishing and social engineering attacks.
--**Security Solutions**: Implement antivirus, firewalls, and intrusion detection systems.
--**Access Control**: Regularly review and update file permissions.
+- **Regular Backups**: Backup important data to offline or cloud storage.
+- **Security Awareness**: Educate users on phishing and social engineering attacks.
+- **Security Solutions**: Implement antivirus, firewalls, and intrusion detection systems.
+- **Access Control**: Regularly review and update file permissions.
 
 ## Author
 Sandarbh Kansal
