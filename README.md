@@ -36,11 +36,11 @@ The project aims to develop a ransomware simulator that mimics the behavior of a
 1. File Encryption:
 - The simulator encrypts files in the specified directory using the AES encryption algorithm.
    
-2.Ransom Note Display:
+2. Ransom Note Display:
 - A graphical ransom note is displayed with an image and instructions to pay a ransom.
 - A countdown timer creates urgency for the user to input the decryption key.**
 
-3.File Decryption:
+3. File Decryption:
 - If the correct key is provided, files are decrypted and restored to their original state.
 
 ## Ransomware Attack Simulation Workflow
